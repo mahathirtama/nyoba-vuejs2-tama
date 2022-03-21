@@ -1,0 +1,30 @@
+#app {
+  font-family: "Montserrat", sans-serif;
+}
+
+.router-link-exack-active {
+  font-weight: bold;
+}
+
+.breadcrumb {
+  background-color: transparent;
+}
+
+.breadcrumb-item.active {
+  font-weight: bold;
+  color: black;
+}
+
+.card-anime {
+  border-radius: 20px;
+  padding: 0;
+}
+
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.img-fluid {
+  border-radius: 15px;
+}
